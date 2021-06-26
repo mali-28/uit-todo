@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/uit-todo/static/css/main.8057a96a.chunk.css",
+    "main.js": "/uit-todo/static/js/main.09c0e942.chunk.js",
+    "main.js.map": "/uit-todo/static/js/main.09c0e942.chunk.js.map",
+    "runtime-main.js": "/uit-todo/static/js/runtime-main.11047f61.js",
+    "runtime-main.js.map": "/uit-todo/static/js/runtime-main.11047f61.js.map",
+    "static/js/2.df029165.chunk.js": "/uit-todo/static/js/2.df029165.chunk.js",
+    "static/js/2.df029165.chunk.js.map": "/uit-todo/static/js/2.df029165.chunk.js.map",
+    "index.html": "/uit-todo/index.html",
+    "static/css/main.8057a96a.chunk.css.map": "/uit-todo/static/css/main.8057a96a.chunk.css.map",
+    "static/js/2.df029165.chunk.js.LICENSE.txt": "/uit-todo/static/js/2.df029165.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11047f61.js",
+    "static/js/2.df029165.chunk.js",
+    "static/css/main.8057a96a.chunk.css",
+    "static/js/main.09c0e942.chunk.js"
+  ]
+}
